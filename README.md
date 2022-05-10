@@ -6,7 +6,7 @@
 I'm a Informatic Engineering Student
 </h3>
 
-- 🌱  I’m currently learning **Python, SQL, Bash, ...**
+- 🌱  I’m currently learning **Python, SQL, Bash, Flask,..**
 - 🐉  In my free times I read about **Hacking**
 
 <div align="center">
@@ -18,8 +18,8 @@ I'm a Informatic Engineering Student
 <div style="display: inline block"><br>
   <img align="center" alt="Aaron-Python" height="40" wldth="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Aaron-SQL" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg">
-<!--   <img align="center" alt="Aaron-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Aaron-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"> -->
+<!--   <img align="center" alt="Aaron-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> -->
+  <img align="center" alt="Aaron-Flask" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg">
   <img align="center" alt="Aaron-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Aaron-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Aaron-BASH" height="30" wldth="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-plain.svg">
