@@ -22,8 +22,8 @@ I'm a Informatic Engineering Student
   <img align="center" alt="Aaron-Flask" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg">
   <img align="center" alt="Aaron-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Aaron-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="gif" "Aaron-BASH" height="30" wldth="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-plain.svg">
-<p><img align="right" alt="gif" src="https://github.com/j0k3rD/j0k3rD/blob/main/pepe.gif" width="100" height="100" /></p>
+  <img align="center" alt="Aaron-BASH" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-plain.svg">
+  <img align="left" alt="Aaron-gif" src="https://github.com/j0k3rD/j0k3rD/blob/main/pepe.gif" width="80" height="100"/>
 
   ##
 
