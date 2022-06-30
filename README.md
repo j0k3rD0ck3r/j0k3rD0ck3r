@@ -35,7 +35,7 @@ target="_blank"></a> -->
   <a href="https://www.reddit.com/user/Aromatic_Insect4630" target="_blank"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" target="_blank"></a>
 <!--   <a href="https://..linkedin.com/in/rafaella-ballerini-45875e16a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%23007785?style-for-the-badge&logo-linkedin&logoColor-white" target="_blank"></a> -->
   
-   ![snake animation](https://github.com/j0k3rD0ck3r/j0k3rD0ck3r/blob/output/github-contribution-grid-snake.svg)
+   ![snake animation](https://github.com/j0k3rD/j0k3rD/blob/output/github-contribution-grid-snake.svg)
   
 </div>
 
