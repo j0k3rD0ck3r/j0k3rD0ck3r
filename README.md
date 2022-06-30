@@ -10,7 +10,7 @@ I'm a Informatic Engineering Student
 - 🐉  In my free times I read about **Hacking**
 
 <div align="center">
-  <a href="https://github.com/j0k3rD0ck3r">
+  <a href="https://github.com/j0k3rD">
   <img height="150em" align="center" src="https://github-readme-stats.vercel.app/api?username=j0k3rD&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="150em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=j0k3rD&layout=compact&langs_count=7&theme=dark"/>
 </div>
