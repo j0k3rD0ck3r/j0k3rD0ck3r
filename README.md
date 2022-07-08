@@ -4,8 +4,10 @@
 <p align="left"><strong><samp>「</samp></strong></p>
   <p align="center">
     <samp>
+              <img height="30" src="https://github.com/j0k3rD/j0k3rD/blob/main/%5Bj0k3rD0ck3r%40hack4u%20%7E%5D%24.png">
+          <br>
       <b>
-      <image src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&color=00FF12&center=true&vCenter=true&width=500&height=75&lines=~%24+HELLO+THERE!;~%24+Welcome+to+my+Profile;~%24+Check+out+my+Repos+%3A))">
+      <image src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&color=00FF12&center=true&vCenter=true&width=500&height=75&lines=HELLO+THERE!;Welcome+to+my+Profile;Check+out+my+Repos+%3A))">
       <br>
         I'm Aaron, a Informatic Engineering Student, and Linux enthusiast.
       </b>
