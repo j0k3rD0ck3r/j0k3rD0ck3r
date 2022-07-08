@@ -5,17 +5,16 @@
   <p align="center">
     <samp>
       <b>
-        <image src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&color=00FF12&center=true&vCenter=true&width=500&height=75&lines=~%24+HELLO+THERE!;~%24+Welcome+to+my+Profile;~%24+Check+out+my+Repos+%3A))">
+      <image src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&color=00FF12&center=true&vCenter=true&width=500&height=75&lines=~%24+HELLO+THERE!;~%24+Welcome+to+my+Profile;~%24+Check+out+my+Repos+%3A))">
       <br>
         I'm Aaron, a Informatic Engineering Student, and Linux enthusiast.
       </b>
       <br>
       <br>
+        <img align="center" alt="Aaron-gif" src="https://c.tenor.com/3ItiA2urMygAAAAC/nerowo-fsociety.gif" width="150" height="150"/>
     </samp>
   </p>
 <p align="right"><strong><samp>」</samp></strong></p>
-
-<br>
 </div>
 
 <details>
@@ -64,12 +63,8 @@ class Aaron:
   <img align="center" alt="Aaron-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Aaron-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Aaron-BASH" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-plain.svg">
-  <img align="left" alt="Aaron-gif" src="https://github.com/j0k3rD/j0k3rD/blob/main/pepe.gif" width="80" height="100"/>
-
-  ##
-
+</div>
 <div>
-
   
    ![snake animation](https://github.com/j0k3rD/j0k3rD/blob/output/github-contribution-grid-snake.svg)
   
