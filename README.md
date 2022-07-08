@@ -57,7 +57,7 @@ class Aaron:
   <img height="150em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=j0k3rD&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
-<div style="display: inline block"><br>
+<div align="center" style="display: inline block"><br>
   <img align="center" alt="Aaron-Python" height="40" wldth="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Aaron-SQL" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg">
 <!--   <img align="center" alt="Aaron-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> -->
@@ -66,7 +66,7 @@ class Aaron:
   <img align="center" alt="Aaron-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Aaron-BASH" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-plain.svg">
 </div>
-<div>
+<div align="center">
   
    ![snake animation](https://github.com/j0k3rD/j0k3rD/blob/output/github-contribution-grid-snake.svg)
   
