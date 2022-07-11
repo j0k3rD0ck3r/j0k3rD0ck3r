@@ -5,7 +5,7 @@
   <p align="center">
     <samp>
            <img height="25" src="https://github.com/j0k3rD/j0k3rD/blob/main/%5Bj0k3rD0ck3r%40hack4u%20%7E%5D%24.png">
-           <img src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&color=00FF12&vCenter=true&width=300&height=25&lines=HELLO+THERE!;Welcome+to+my+Profile;Check+out+my+Repos+%3A)">
+           <img src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&color=00FF12&vCenter=true&width=300&height=25&lines=HELLO+THERE!;Welcome+to+my+profile;Check+out+my+Repos+%3A)">
       <br>
       <br>
         I'm Aaron, a Informatic Engineering Student, and Linux enthusiast.
