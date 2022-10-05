@@ -8,7 +8,7 @@
            <img src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&color=00FF12&vCenter=true&width=300&height=25&lines=HELLO+THERE!;Welcome+to+my+profile;Check+out+my+Repos+%3A)">
       <br>
       <br>
-        I'm Aaron, a Informatic Engineering Student, and Linux enthusiast.
+        I'm Aaron, a Informatics Engineering Student, and Linux enthusiast.
       </b>
       <br>
       <br>
