@@ -52,10 +52,12 @@ class Aaron:
 <h2></h2><br>
 <div align="center">
   <a href="https://github.com/j0k3rD">
-  <img height="150em" align="center" src="https://github-readme-stats.vercel.app/api?username=j0k3rD&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=j0k3rD&layout=compact&langs_count=7&theme=dark"/>
+  <img height="150em" align="center" src="https://github-readme-stats.vercel.app/api?username=j0k3rD&show_icons=true&theme=dark"/>
+<!--     &include_all_commits=true&count_private=true -->
+  <img height="150em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=j0k3rD&layout=compact&theme=dark"/>
+<!--     &langs_count=7 -->
 </div>
-  
+
 <div align="center" style="display: inline block"><br>
   <img align="center" alt="Aaron-Python" height="40" wldth="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Aaron-SQL" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg">
