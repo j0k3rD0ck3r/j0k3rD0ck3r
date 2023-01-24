@@ -12,7 +12,7 @@
       </b>
       <br>
       <br>
-        <img align="center" alt="Aaron-gif" src="https://c.tenor.com/3ItiA2urMygAAAAC/nerowo-fsociety.gif" width="150" height="150"/>
+        <!-- <img align="center" alt="Aaron-gif" src="https://c.tenor.com/3ItiA2urMygAAAAC/nerowo-fsociety.gif" width="150" height="150"/> -->
     </samp>
   </p>
 <p align="right"><strong><samp>」</samp></strong></p>
