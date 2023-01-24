@@ -39,7 +39,7 @@
 
 ```python
 class Aaron:
-    lenguajes= ["Python","HTML5", "CSS3", "GNUBash"]
+    lenguajes= ["Python","GNUBash"]
     db= "MySQL"
     versionControl= ["Git", "GitHub"]
     editors= ["VSCode", "Neovim"]
