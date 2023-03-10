@@ -22,22 +22,18 @@
 <summary><samp><b>More Info</b></samp></summary>
 <h2></h2><br>
 <!-- Contact Me -->
-<p align="center">
-  <samp>
-        <!--   <a href="https://www.twitter.com/aaron_moya22" target="blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"
-        target="_blank"></a> -->
-        <a href="https://discord.gg/Efvermwe" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&       logoColor=white" target="_blank"></a>
-        <a href="mailto:contato@agm.moya@alumno.um.edu.ar"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-        <a href="https://www.reddit.com/user/Aromatic_Insect4630" target="_blank"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" target="_blank"></a>
-        <!--   <a href="https://..linkedin.com/in/rafaella-ballerini-45875e16a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%23007785?style-for-the-badge&logo-linkedin&logoColor-white" target="_blank"></a> -->
-  </samp>
-</p>
+<div align="center"> 
+    <a href="https://instagram.com/aaron_moya22" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
+    <!-- <a href="https://www.youtube.com/channel/UCvFCatDtfdvwKKXkndSAPiw" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a> -->
+    <a href = "mailto:cmp.1a.agm.moya@alumno.um.edu.ar"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<!--     <a href="https://www.linkedin.com/in/aaron_moya22/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a>  -->
+ </div>
 
 <h2></h2><br>
 
 <!-- Languages and Technologies -->
 
-```python
+<!-- ```python
 class Aaron:
     lenguajes= ["Python","GNUBash"]
     db= "MySQL"
@@ -47,28 +43,34 @@ class Aaron:
 
     def funFact():
         print("I am a perfectionist when it comes to my work :)")
-```
+``` -->
 
-<h2></h2><br>
-<div align="center">
-  <a href="https://github.com/j0k3rD">
-  <img height="150em" align="center" src="https://github-readme-stats.vercel.app/api?username=j0k3rD&show_icons=true&theme=dark"/>
-<!--     &include_all_commits=true&count_private=true -->
-  <img height="150em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=j0k3rD&layout=compact&theme=dark"/>
-<!--     &langs_count=7 -->
+<!-- <h2></h2><br> -->
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=j0k3rD&show_icons=true&count_private=true&hide_border=true&title_color=82E0AA&icon_color=82E0AA&text_color=c9d1d9&bg_color=0d1117" alt="Aaron Moya github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=j0k3rD&layout=compact&hide_border=true&title_color=82E0AA&text_color=82E0AA&bg_color=0d1117" />
 </div>
-
+  
 <div align="center" style="display: inline block"><br>
-  <img align="center" alt="Aaron-Python" height="40" wldth="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Aaron-SQL" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg">
+  <h2 align="center">Main Skills</h2>
+  <img align="center" alt="Aaron-Python" height="60" wldth="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Aaron-SQL" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg">
 <!--   <img align="center" alt="Aaron-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> -->
-  <img align="center" alt="Aaron-Flask" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg">
-  <img align="center" alt="Aaron-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Aaron-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Aaron-BASH" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-plain.svg">
+  <img align="center" alt="Aaron-Flask" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg">
+  <img align="center" alt="Aaron-HTML" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Aaron-CSS" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Aaron-BASH" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-plain.svg">
 </div>
+<br>
 <div align="center">
   
-   ![snake animation](https://github.com/j0k3rD/j0k3rD/blob/output/github-contribution-grid-snake.svg)
+   [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=j0k3rD&bg_color=0d1117&color=58D68D&line=239B56&point=2ECC71&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  
+  
+<div align="center">
+  <br><p align="centre"><b>Visitors Count</b></p>  
+  <p align="center"><img align="center" src="https://profile-counter.glitch.me/{j0k3rD}/count.svg" /></p> 
+</div>
+<!--    ![snake animation](https://github.com/j0k3rD/j0k3rD/blob/output/github-contribution-grid-snake.svg) -->
   
 </div>
