@@ -52,7 +52,7 @@ class Aaron:
 </div>
   
 <div align="center" style="display: inline block"><br>
-  <h2 align="center">Main Skills</h2>
+
   <img align="center" alt="Aaron-Python" height="60" wldth="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Aaron-SQL" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg">
 <!--   <img align="center" alt="Aaron-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> -->
