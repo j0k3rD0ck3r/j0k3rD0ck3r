@@ -62,15 +62,15 @@ class Aaron:
   <img align="center" alt="Aaron-BASH" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-plain.svg">
 </div>
 <br>
-<div align="center">
+<div align="center"><br>
   
    [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=j0k3rD&bg_color=0d1117&color=58D68D&line=239B56&point=2ECC71&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-  
+
+</div>
   
 <div align="center">
-  <br><p align="centre"><b>Visitors Count</b></p>  
+  <p align="centre"><b>Visitors Count</b></p>  
   <p align="center"><img align="center" src="https://profile-counter.glitch.me/{j0k3rD}/count.svg" /></p> 
 </div>
 <!--    ![snake animation](https://github.com/j0k3rD/j0k3rD/blob/output/github-contribution-grid-snake.svg) -->
   
-</div>
