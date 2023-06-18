@@ -66,11 +66,11 @@
 
   <!-- https://github.com/vn7n24fzkq/github-profile-summary-cards -->
   <div align="center">
-    <img alt="GitHub Profile Details" width="80%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=j0k3rD&theme=github_dark">
-    <img alt="GitHub Stats" width="40%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=j0k3rD&theme=github_dark">
-    <img alt="GitHub Productive Time" width="40%" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=j0k3rD&theme=github_dark">
-    <img alt="GitHub Repos Per Language" width="40%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=j0k3rD&theme=github_dark">
-    <img alt="GitHub Most Commit Language" width="40%" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=j0k3rD&theme=github_dark">
+    <img alt="GitHub Profile Details" width="80%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=j0k3rD&theme=dark">
+    <img alt="GitHub Stats" width="40%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=j0k3rD&theme=dark">
+    <img alt="GitHub Productive Time" width="40%" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=j0k3rD&theme=dark">
+    <img alt="GitHub Repos Per Language" width="40%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=j0k3rD&theme=dark">
+    <img alt="GitHub Most Commit Language" width="40%" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=j0k3rD&theme=dark">
   </div>
 
 </details>
