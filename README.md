@@ -22,27 +22,27 @@
 <!-- Languages and Tools -->
 <h4 align="center">:atom_symbol: Languages, Frameworks & Technologies</h4>
 <div align="center" style="display: inline block"><br>
-  <img align="center" alt="Aaron-Python" height="60" wldth="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Aaron-SQL" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg">
-  <img align="center" alt="Aaron-Flask" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg">
-  <img align="center" alt="Aaron-Docker" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />     
-  <img align="center" alt="Aaron-BASH" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-plain.svg">
+  <img align="center" alt="Aaron-Python" height="50" wldth="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Aaron-BASH" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-plain.svg">
+  <img align="center" alt="Aaron-Flask" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg">
+  <img align="center" alt="Aaron-Docker" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />      
+  <img align="center" alt="Aaron-SQL" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg">
   <br><br>
   
   <details>
   <summary >Others Used</summary>
     <br>
-    <img align="center" alt="Aaron-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="center" alt="Aaron-JAVA" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+    <img align="center" alt="Aaron-JS" height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+    <img align="center" alt="Aaron-JAVA" height="20" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
     &#124;
-    <img align="center" alt="Aaron-DJANGO" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
-    <img align="center" alt="Aaron-SPRING" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
+    <img align="center" alt="Aaron-DJANGO" height="20" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
+    <img align="center" alt="Aaron-SPRING" height="20" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
     &#124;
-    <img align="center" alt="Aaron-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="center" alt="Aaron-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" alt="Aaron-REACT" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+    <img align="center" alt="Aaron-HTML" height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+    <img align="center" alt="Aaron-CSS" height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    <img align="center" alt="Aaron-REACT" height="20" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
     &#124;
-    <img align="center" alt="Aaron-REDIS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" /> 
+    <img align="center" alt="Aaron-REDIS" height="20" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" /> 
   </details>
   
 </div>
